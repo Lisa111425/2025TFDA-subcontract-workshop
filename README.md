@@ -1,4 +1,7 @@
-# TFDA-Subcontract-workshop-111725
+# 114年度食品藥物管理署「醫療器材委託製造線上申辦系統」審查人員教育訓練
+
+AI 技術應用於醫療器材委託製造許可(AI代理人工作坊)<img width="1602" height="678" alt="image" src="https://github.com/user-attachments/assets/429fa44f-0f15-4e9f-a351-a95cf653b9fd" />
+
 活動目標
 參與者學習使用 AI 代理從模擬醫療器材提交材料中提取關鍵資訊，如裝置規格、臨床數據、製造細節。重點在修改提示詞以優化提取準確性。
 適用參與者
