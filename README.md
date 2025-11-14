@@ -1,6 +1,5 @@
-<img width="1544" height="760" alt="image" src="https://github.com/user-attachments/assets/bef43482-6d07-4c7d-901e-b77983dac48d" /># 114年度-食品藥物管理署醫療器材委託製造線上申辦系統審查人員教育訓練
+# 114年度-食品藥物管理署醫療器材委託製造線上申辦系統審查人員教育訓練
 #AI 技術應用於醫療器材委託製造許可(AI代理人工作坊)
-<img width="1402" height="200" alt="image" src="https://img.freepik.com/free-vector/bokeh-lights-glitter-background_1048-8548.jpg?semt=ais_hybrid&w=740&q=80" />
 
 活動目標：
 參與者學習使用 AI 代理從模擬醫療器材委託製造許可資料中提取關鍵資訊，例如醫療器材商名稱、委託製造品項等資訊。使用者透過優化AI Agent提示詞以提升準確性。
@@ -41,6 +40,10 @@ Tfda agentic AI代理人輔助審查系統(將於活動中提供系統網址)
 挑戰項目二、
 	任務目標：請透過AI Agent，針對模擬委託製造契約，輔助判定是否符合委託契約應包含內容。
 	任務材料：委託契約審查重點、模擬委託製造契約。
+
+<img width="1544" height="760" alt="image" src="https://github.com/user-attachments/assets/bef43482-6d07-4c7d-901e-b77983dac48d" />
+<img width="1402" height="200" alt="image" src="https://img.freepik.com/free-vector/bokeh-lights-glitter-background_1048-8548.jpg?semt=ais_hybrid&w=740&q=80" />
+
 
 提示詞範例：
       你是FDA審查專家。請依據使用者提供的合約內容，重新以下面結構整理合約資料：
