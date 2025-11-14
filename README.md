@@ -1,7 +1,7 @@
 # 114年度食品藥物管理署「醫療器材委託製造線上申辦系統」審查人員教育訓練
 
 AI 技術應用於醫療器材委託製造許可(AI代理人工作坊)
-<img width="602" height="200" alt="image" src="https://img.freepik.com/free-vector/bokeh-lights-glitter-background_1048-8548.jpg?semt=ais_hybrid&w=740&q=80" />
+<img width="1402" height="200" alt="image" src="https://img.freepik.com/free-vector/bokeh-lights-glitter-background_1048-8548.jpg?semt=ais_hybrid&w=740&q=80" />
 
 活動目標
 參與者學習使用 AI 代理從模擬醫療器材提交材料中提取關鍵資訊，如裝置規格、臨床數據、製造細節。重點在修改提示詞以優化提取準確性。
