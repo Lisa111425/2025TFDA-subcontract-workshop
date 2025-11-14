@@ -1,13 +1,13 @@
 # 114年度食品藥物管理署療器材委託製造線上申辦系統審查人員教育訓練  
 # AI 技術應用於醫療器材委託製造 AI 代理人工作坊  
-**紅色文字**
+****
 
 ## 活動目標：
 參與者學習使用 AI 代理從模擬醫療器材委託製造許可資料中提取關鍵資訊，例如醫療器材商名稱、委託製造品項等資訊。使用者透過優化 AI Agent 提示詞以提升準確性。
 
 - **適用參與者：** 20 名 TFDA 審查人員  
 - **所需材料：**  
-  - Tfda agentic AI 代理人輔助審查系統：[https://tinyurl.com/](https://tinyurl.com/)  
+  - Tfda agentic AI 代理人輔助審查系統：[https://tinyurl.com/4ku9hw9m](https://tinyurl.com/4ku9hw9m)  
   - 模擬申請文件：`mock-submissions`（請於 `/mock/` 資料夾中取得）
 
 ---
