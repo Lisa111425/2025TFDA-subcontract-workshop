@@ -9,8 +9,9 @@
 - **所需材料：**  
   - Tfda agentic AI 代理人輔助審查系統：[https://tinyurl.com/4ku9hw9m](https://tinyurl.com/4ku9hw9m)  
   - 模擬申請文件：`mock-submissions`（請於 `/mock/` 資料夾中取得）
-  - 備用連結：[https://tinyurl.com/38yr4uej](https://tinyurl.com/38yr4uej)
-
+  - 備用連結1：[https://tinyurl.com/38yr4uej](https://tinyurl.com/38yr4uej)
+  - 備用連結2：[https://tinyurl.com/2ebd7h92](https://tinyurl.com/2ebd7h92)
+  - 備用連結3：[https://tinyurl.com/57zrwenc](https://tinyurl.com/57zrwenc)
 ---
 
 ## 活動步驟：
